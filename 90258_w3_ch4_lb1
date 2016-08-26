@@ -1,0 +1,49 @@
+Script started on Sun Feb  7 20:42:08 2016
+[?1034hbash-3.2$ cd
+bash-3.2$ pwd
+/Users/Shaileesha
+bash-3.2$ mkdir two
+bash-3.2$ file two/
+two/: directory
+bash-3.2$ cd /Users/Shaileesha/two/
+bash-3.2$ pwd
+/Users/Shaileesha/two
+bash-3.2$ vim fox
+[?1049h[?1h=[1;24r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[24;1H"fox" [New File][>c[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?12l[?25h[?25l[m[24;1H[1m-- INSERT --[m[24;13H[K[1;1H[?12l[?25h[24;1H[K[1;1H[?25l[?12l[?25h[24;1H[?1l>[?1049lbash-3.2$ ls
+bash-3.2$ vim fox
+[?1049h[?1h=[1;24r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[24;1H"fox" [New File][>c[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [1;1H[?12l[?25h[?25l[m[24;1H[1m-- INSERT --[m[24;13H[K[1;1H[?12l[?25h[?25lt[?12l[?25h[?25lth[?12l[?25h[?25lhi[?12l[?25h[?25lis[?12l[?25h[?25l [?12l[?25h[?25l i[?12l[?25h[?25lis[?12l[?25h[?25l [?12l[?25h[?25l l[?12l[?25h[?25lla[?12l[?25h[?25lab[?12l[?25h[?25l [?12l[?25h[?25l 1[?12l[?25h[?25l [?12l[?25h[?25l w[?12l[?25h[?25lwe[?12l[?25h[?25lee[?12l[?25h[?25lek[?12l[?25h[?25l [?12l[?25h[?25l 3[?12l[?25h[?25l3.[?12l[?25h[24;1H[K[1;21H[?25l[?12l[?25h[?25l[24;1H"fox" [New] 1L, 22C written
+[?1l>[?12l[?25h[?1049lbash-3.2$ ls
+fox
+bash-3.2$ ls /Users/Shaileesha/two/fox [K[K[K[K[K/
+fox
+bash-3.2$ cd
+bash-3.2$ cd 
+.CFUserTextEncoding  .test.swp            Movies/
+.DS_Store            .vim/                Music/
+.Trash/              .viminfo             Pictures/
+.bash_history        Applications/        Public/
+.bash_sessions/      Desktop/             VirtualBox VMs/
+.cups/               Documents/           two/
+.lesshst             Downloads/           typescript
+.test.swo            Library/             
+bash-3.2$ cd two/[K[K[K[K[K[K[Kls two/
+fox
+bash-3.2$ pwd
+/Users/Shaileesha
+bash-3.2$ rmdir two/
+rmdir: two/: Directory not empty
+bash-3.2$ rm two/fox 
+bash-3.2$ ls
+Applications	Downloads	Music		VirtualBox VMs
+Desktop		Library		Pictures	two
+Documents	Movies		Public		typescript
+bash-3.2$ ls two/
+bash-3.2$ rmdir two/
+bash-3.2$ ls
+Applications	Downloads	Music		VirtualBox VMs
+Desktop		Library		Pictures	typescript
+Documents	Movies		Public
+bash-3.2$ exit
+exit
+
+Script done on Sun Feb  7 20:50:20 2016

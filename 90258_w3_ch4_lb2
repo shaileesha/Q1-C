@@ -1,0 +1,24 @@
+Script started on Sun Feb  7 21:03:04 2016
+[?1034hbash-3.2$ cd
+bash-3.2$ pwd
+/Users/Shaileesha
+bash-3.2$ touch dog
+bash-3.2$ ls -l dog 
+-rw-r--r--  1 Shaileesha  staff  0 Feb  7 21:03 dog
+bash-3.2$ ls[K[K
+bash-3.2$ ls -l /bin/bash 
+-r-xr-xr-x  1 root  wheel  628496 Jan 13 18:05 /bin/bash
+bash-3.2$ chmod 600[K[K44[K[K00 fo[K[K[K[K[K[K[K[K[K[K[K[Kls
+90258_w3_ch4	Documents	Movies		Public		typescript
+Applications	Downloads	Music		VirtualBox VMs
+Desktop		Library		Pictures	dog
+bash-3.2$ chmod 600 dog 
+bash-3.2$ ls -l dog 
+-rw-------  1 Shaileesha  staff  0 Feb  7 21:03 dog
+bash-3.2$ chmod 444 dog 
+bash-3.2$ ls -l dog 
+-r--r--r--  1 Shaileesha  staff  0 Feb  7 21:03 dog
+bash-3.2$ exit
+exit
+
+Script done on Sun Feb  7 21:23:18 2016
