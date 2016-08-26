@@ -1,0 +1,1116 @@
+lrwxr-xr-x@ 1 wheel  11 Jan 23 00:42 /etc -> private/etc
+
+/sbin/:
+total 2056
+-rwxr-xr-x  1 wheel   39696 Jan 13 18:05 autodiskmount
+-rwxr-xr-x  1 wheel   38032 Jan 13 18:05 disklabel
+-rwxr-xr-x  1 wheel   42720 Jan 13 18:05 dmesg
+-rwxr-xr-x  1 wheel   43472 Jan 13 18:05 dynamic_pager
+-rwxr-xr-x  1 wheel  199456 Jan 13 18:05 emond
+-rwxr-xr-x  1 wheel   44304 Jan 13 18:05 fibreconfig
+-r-xr-xr-x  1 wheel   23648 Jan 13 18:05 fsck
+-rwxr-xr-x  1 wheel  144176 Jan 13 18:05 fsck_cs
+lrwxr-xr-x  1 wheel      66 Jan 23 00:42 fsck_exfat -> /System/Library/Filesystems/exfat.fs/Contents/Resources/fsck_exfat
+lrwxr-xr-x  1 wheel      62 Jan 23 00:42 fsck_hfs -> /System/Library/Filesystems/hfs.fs/Contents/Resources/fsck_hfs
+lrwxr-xr-x  1 wheel      66 Jan 23 00:42 fsck_msdos -> /System/Library/Filesystems/msdos.fs/Contents/Resources/fsck_msdos
+lrwxr-xr-x  1 wheel      62 Jan 23 00:42 fsck_udf -> /System/Library/Filesystems/udf.fs/Contents/Resources/fsck_udf
+-r-xr-xr-x  1 wheel   18400 Jan 13 18:05 fstyp
+-r-xr-xr-x  1 wheel   18496 Jan 13 18:05 fstyp_hfs
+-r-xr-xr-x  1 wheel   18512 Jan 13 18:05 fstyp_msdos
+-r-xr-xr-x  1 wheel   18496 Jan 13 18:05 fstyp_ntfs
+-r-xr-xr-x  1 wheel   18592 Jan 13 18:05 fstyp_udf
+-rwxr-xr-x  1 wheel   44352 Jan 13 18:05 halt
+-r-xr-xr-x  1 wheel   67232 Jan 13 18:05 ifconfig
+-rwxr-xr-x  1 wheel   85984 Jan 13 18:05 kextload
+-rwxr-xr-x  1 wheel   65696 Jan 13 18:05 kextunload
+-rwxr-xr-x  1 wheel  317280 Jan 13 18:05 launchd
+-rwxr-xr-x  1 wheel   28560 Jan 13 18:05 md5
+-rwxr-xr-x  1 wheel   18256 Jan 13 18:05 mknod
+-r-xr-xr-x  1 wheel   23840 Jan 13 18:05 mount
+lrwxr-xr-x  1 wheel      59 Jan 23 00:42 mount_acfs -> /System/Library/Filesystems/acfs.fs/Contents/bin/mount_acfs
+-rwxr-xr-x  1 wheel   23136 Jan 13 18:05 mount_afp
+lrwxr-xr-x  1 wheel      69 Jan 23 00:42 mount_cd9660 -> /System/Library/Filesystems/cd9660.fs/Contents/Resources/mount_cd9660
+lrwxr-xr-x  1 wheel      69 Jan 23 00:42 mount_cddafs -> /System/Library/Filesystems/cddafs.fs/Contents/Resources/mount_cddafs
+-r-xr-xr-x  1 wheel   18176 Jan 13 18:05 mount_devfs
+lrwxr-xr-x  1 wheel      67 Jan 23 00:42 mount_exfat -> /System/Library/Filesystems/exfat.fs/Contents/Resources/mount_exfat
+-r-xr-xr-x  1 wheel   18400 Jan 13 18:05 mount_fdesc
+lrwxr-xr-x  1 wheel      63 Jan 23 00:42 mount_ftp -> /System/Library/Filesystems/ftp.fs/Contents/Resources/mount_ftp
+lrwxr-xr-x  1 wheel      63 Jan 23 00:42 mount_hfs -> /System/Library/Filesystems/hfs.fs/Contents/Resources/mount_hfs
+lrwxr-xr-x  1 wheel      67 Jan 23 00:42 mount_msdos -> /System/Library/Filesystems/msdos.fs/Contents/Resources/mount_msdos
+-r-xr-xr-x  1 wheel   46880 Jan 13 18:05 mount_nfs
+lrwxr-xr-x  1 wheel      65 Jan 23 00:42 mount_ntfs -> /System/Library/Filesystems/ntfs.fs/Contents/Resources/mount_ntfs
+-r-xr-xr-x  1 wheel   51104 Jan 13 18:05 mount_smbfs
+lrwxr-xr-x  1 wheel      63 Jan 23 00:42 mount_udf -> /System/Library/Filesystems/udf.fs/Contents/Resources/mount_udf
+-rwxr-xr-x  1 wheel   18240 Jan 13 18:05 mount_webdav
+-rwxr-xr-x  1 wheel   72400 Jan 13 18:05 mpioutil
+lrwxr-xr-x  1 wheel      67 Jan 23 00:42 newfs_exfat -> /System/Library/Filesystems/exfat.fs/Contents/Resources/newfs_exfat
+lrwxr-xr-x  1 wheel      63 Jan 23 00:42 newfs_hfs -> /System/Library/Filesystems/hfs.fs/Contents/Resources/newfs_hfs
+lrwxr-xr-x  1 wheel      67 Jan 23 00:42 newfs_msdos -> /System/Library/Filesystems/msdos.fs/Contents/Resources/newfs_msdos
+lrwxr-xr-x  1 wheel      63 Jan 23 00:42 newfs_udf -> /System/Library/Filesystems/udf.fs/Contents/Resources/newfs_udf
+-r-xr-xr-x  1 wheel  108544 Jan 13 18:05 nfsd
+-r-xr-xr-x  1 wheel   18272 Jan 13 18:05 nfsiod
+-rwxr-xr-x  1 wheel   42528 Jan 13 18:05 nologin
+-r-xr-xr-x  1 wheel  212608 Jan 13 18:05 pfctl
+-r-xr-xr-x  1 wheel   37232 Jan 13 18:05 ping
+-r-xr-xr-x  1 wheel   50816 Jan 13 18:05 ping6
+-r-xr-xr-x  1 wheel   28304 Jan 13 18:05 quotacheck
+-rwxr-xr-x  1 wheel   44352 Jan 13 18:05 reboot
+-r-xr-xr-x  1 wheel   33344 Jan 13 18:05 route
+-r-xr-xr-x  1 wheel   33024 Jan 13 18:05 rtsol
+-rwxr-xr-x  1 wheel   66944 Jan 13 18:05 shutdown
+-r-xr-xr-x  1 wheel   24256 Jan 13 18:05 umount
+
+/usr/bin/:
+total 102656
+-rwxr-xr-x   5 wheel       925 Oct 23 18:11 2to3
+-rwxr-xr-x   5 wheel       925 Oct 23 18:11 2to3-
+lrwxr-xr-x   1 wheel        74 Jan 23 00:42 2to3-2.7 -> ../../System/Library/Frameworks/Python.framework/Versions/2.7/bin/2to3-2.7
+lrwxr-xr-x   1 wheel        73 Jan 23 00:42 2to32.6 -> ../../System/Library/Frameworks/Python.framework/Versions/2.6/bin/2to32.6
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 BuildStrings
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 CpMac
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 DeRez
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 GetFileInfo
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 MergePef
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 MvMac
+-rwxr-xr-x   1 wheel     18192 Jan 13 18:05 ResMerger
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 Rez
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 RezDet
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 RezWack
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 SetFile
+-rwxr-xr-x   1 wheel     18192 Jan 13 18:05 SplitForks
+-rwxr-xr-x   1 wheel     18192 Jan 13 18:05 UnRezWack
+-rwxr-xr-x   1 wheel     66480 Jan 13 18:05 a2p
+-rwxr-xr-x   1 wheel    233712 Jan 13 18:05 a2p5.16
+-rwxr-xr-x   1 wheel    233712 Jan 13 18:05 a2p5.18
+-rwxr-xr-x   1 wheel     33664 Jan 13 18:05 addftinfo
+-rwxr-xr-x   1 wheel    132592 Jan 13 18:05 afconvert
+-rwxr-xr-x   1 wheel     37120 Jan 13 18:05 afhash
+-rwxr-xr-x   1 wheel     79056 Jan 13 18:05 afida
+-rwxr-xr-x   1 wheel     83488 Jan 13 18:05 afinfo
+-rwxr-xr-x   1 wheel    162321 Jul 31  2015 afmtodit
+-rwxr-xr-x   1 wheel     47152 Jan 13 18:05 afplay
+-rwxr-xr-x   1 wheel     41632 Jan 13 18:05 afscexpand
+-rwxr-xr-x   1 wheel     29952 Jan 13 18:05 agentxtrap
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 agvtool
+-rwxr-xr-x  15 wheel       190 Jul 31  2015 alias
+-rwxr-xr-x   1 wheel     36944 Jan 13 18:05 applesingle
+lrwxr-xr-x   1 wheel        82 Jan 23 00:42 appletviewer -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/appletviewer
+-rwxr-xr-x   1 wheel     18864 Jan 13 18:05 apply
+-rwxr-xr-x   1 wheel      7185 Jul 31  2015 apr-1-config
+-r-xr-xr-x   1 wheel      1808 Jul 31  2015 apropos
+lrwxr-xr-x   1 wheel        73 Jan 23 00:42 apt -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/apt
+-rwxr-xr-x   1 wheel      6583 Jul 31  2015 apu-1-config
+-rwxr-xr-x   1 wheel     18160 Jan 13 18:05 ar
+-rwxr-xr-x   1 wheel     66880 Jan 13 18:05 arch
+-rwxr-xr-x   1 wheel     18160 Jan 13 18:05 as
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 asa
+-rwxr-xr-x   1 wheel    126688 Jan 13 18:05 asctl
+-rwxr-xr-x   1 wheel    762016 Jan 13 18:05 assetutil
+-r-sr-xr-x   1 wheel     83520 Jan 13 18:05 at
+-rwxr-xr-x   1 wheel    135504 Jan 13 18:05 atos
+-r-sr-xr-x   1 wheel     83520 Jan 13 18:05 atq
+-r-sr-xr-x   1 wheel     83520 Jan 13 18:05 atrm
+-rwxr-xr-x   1 wheel     28800 Jan 13 18:05 atsutil
+-rwxr-xr-x   1 wheel     38624 Jan 13 18:05 automator
+-r-xr-xr-x   1 wheel       200 Sep 27 16:27 auval
+-rwxr-xr-x   1 wheel    286480 Jan 13 18:05 auvaltool
+-rwxr-xr-x   1 wheel    107184 Jan 13 18:05 avbdiagnose
+-rwxr-xr-x   1 wheel     23440 Jan 13 18:05 avbutil
+-rwxr-xr-x   1 wheel     94800 Jan 13 18:05 avconvert
+-rwxr-xr-x   1 wheel     29184 Jan 13 18:05 avmetareadwrite
+-rwxr-xr-x   1 wheel    116176 Jan 13 18:05 awk
+-rwxr-xr-x   1 wheel     30960 Jan 13 18:05 banner
+-rwxr-xr-x   1 wheel     23136 Jan 13 18:05 base64
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 basename
+-r-xr-xr-x   1 wheel      6574 Jul 31  2015 bashbug
+-r-sr-xr-x   1 wheel     83520 Jan 13 18:05 batch
+-rwxr-xr-x   1 wheel     85008 Jan 13 18:05 bc
+-rwxr-xr-x  15 wheel       190 Jul 31  2015 bg
+-rwxr-xr-x   1 wheel     18128 Jan 13 18:05 biff
+-rwxr-xr-x   1 wheel     45568 Jan 13 18:05 binhex
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 binhex.pl
+-r-xr-xr-x   1 wheel      3941 Jul 31  2015 binhex5.18.pl
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 bison
+-rwxr-xr-x   1 wheel      1958 Dec 10 18:20 bitesize.d
+-rwxr-xr-x   1 wheel    180496 Jan 13 18:05 brctl
+-rwxr-xr-x   1 wheel     70752 Jan 13 18:05 bsdtar
+-rwxr-xr-x   1 wheel     18592 Jan 13 18:05 bspatch
+-rwxr-xr-x   1 wheel      8708 Jul 31  2015 btmmdiagnose
+-rwxr-xr-x   1 wheel     41120 Jan 13 18:05 bunzip2
+-rwxr-xr-x   1 wheel     41120 Jan 13 18:05 bzcat
+lrwxr-xr-x   1 wheel         6 Jan 23 00:42 bzcmp -> bzdiff
+-rwxr-xr-x   1 wheel      2101 Oct 27 16:18 bzdiff
+-rwxr-xr-x   1 wheel     33728 Jan 13 18:05 bzegrep
+-rwxr-xr-x   1 wheel     33728 Jan 13 18:05 bzfgrep
+-rwxr-xr-x   1 wheel     33728 Jan 13 18:05 bzgrep
+-rwxr-xr-x   1 wheel     41120 Jan 13 18:05 bzip2
+-rwxr-xr-x   1 wheel     22736 Jan 13 18:05 bzip2recover
+lrwxr-xr-x   1 wheel         6 Jan 23 00:42 bzless -> bzmore
+-rwxr-xr-x   1 wheel      1259 Oct 27 16:18 bzmore
+lrwxr-xr-x   1 wheel         7 Jan 23 00:42 c++ -> clang++
+-rwxr-xr-x   1 wheel    450384 Jan 13 18:05 c++filt
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 c2ph
+-rwxr-xr-x   1 wheel     36642 Jul 31  2015 c2ph5.16
+-rwxr-xr-x   1 wheel     36642 Jul 31  2015 c2ph5.18
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 c89
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 c99
+-rwxr-xr-x   1 wheel      3697 Jul 31  2015 c_rehash
+-rwxr-xr-x   1 wheel     24320 Jan 13 18:05 caffeinate
+-r-xr-xr-x   1 wheel     31728 Jan 13 18:05 cal
+-r-xr-xr-x   1 wheel     33504 Jan 13 18:05 calendar
+-r-xr-xr-x   1 wheel     23568 Jan 13 18:05 cancel
+-rwxr-xr-x   1 wheel     18592 Jan 13 18:05 cap_mkdb
+lrwxr-xr-x   1 wheel         3 Jan 23 00:42 captoinfo -> tic
+lrwxr-xr-x   1 wheel         5 Jan 23 00:42 cc -> clang
+-rwxr-xr-x  15 wheel       190 Jul 31  2015 cd
+-rwxr-xr-x   1 wheel     90048 Jan 13 18:05 certtool
+-rwxr-xr-x   1 wheel     26784 Jan 13 18:05 checknr
+-rwxr-xr-x   1 wheel     18640 Jan 13 18:05 chflags
+-rwxr-xr-x   1 wheel     69888 Jan 13 18:05 chfn
+-rwxr-xr-x   1 wheel     23184 Jan 13 18:05 chgrp
+-rwxr-xr-x   1 wheel     69888 Jan 13 18:05 chpass
+-rwxr-xr-x   1 wheel     69888 Jan 13 18:05 chsh
+-rwxr-xr-x   1 wheel     22576 Jan 13 18:05 cksum
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 clang
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 clang++
+-rwxr-xr-x   1 wheel     17904 Jan 13 18:05 clear
+-rwxr-xr-x   1 wheel     32512 Jan 13 18:05 cmp
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 cmpdylib
+-rwxr-xr-x   1 wheel     93904 Jan 13 18:05 codesign
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 codesign_allocate
+-rwxr-xr-x   1 wheel     22784 Jan 13 18:05 col
+-rwxr-xr-x   1 wheel     18464 Jan 13 18:05 colcrt
+-rwxr-xr-x   1 wheel     57312 Jan 13 18:05 colldef
+-rwxr-xr-x   1 wheel     18400 Jan 13 18:05 colrm
+-rwxr-xr-x   1 wheel     23328 Jan 13 18:05 column
+-rwxr-xr-x   1 wheel     18496 Jan 13 18:05 comm
+-rwxr-xr-x  15 wheel       190 Jul 31  2015 command
+-rwxr-xr-x   1 wheel     27552 Jan 13 18:05 compress
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 config_data
+-rwxr-xr-x   1 wheel      7266 Jul 31  2015 config_data5.16
+-rwxr-xr-x   1 wheel      7265 Jul 31  2015 config_data5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 corelist
+-rwxr-xr-x   1 wheel     10292 Jul 31  2015 corelist5.16
+-rwxr-xr-x   1 wheel     12790 Jul 31  2015 corelist5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 cpan
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 cpan2dist
+-rwxr-xr-x   1 wheel     21859 Jul 31  2015 cpan2dist5.16
+-rwxr-xr-x   1 wheel     21859 Jul 31  2015 cpan2dist5.18
+-rwxr-xr-x   1 wheel      5129 Jul 31  2015 cpan5.16
+-rwxr-xr-x   1 wheel      5895 Jul 31  2015 cpan5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 cpanp
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 cpanp-run-perl
+-rwxr-xr-x   1 wheel       580 Jul 31  2015 cpanp-run-perl5.16
+-rwxr-xr-x   1 wheel       580 Jul 31  2015 cpanp-run-perl5.18
+-rwxr-xr-x   1 wheel      3433 Jul 31  2015 cpanp5.16
+-rwxr-xr-x   1 wheel      3433 Jul 31  2015 cpanp5.18
+-rwxr-xr-x   1 wheel     42768 Jan 13 18:05 cpio
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 cpp
+-rwxr-xr-x   1 wheel      1402 Dec 10 19:27 cpu_profiler.d
+-rwxr-xr-x   1 wheel      1540 Dec 10 18:20 cpuwalk.d
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 crc32
+-r-xr-xr-x   1 wheel       798 Jul 31  2015 crc325.16
+-r-xr-xr-x   1 wheel       871 Jul 31  2015 crc325.18
+-rwxr-xr-x   1 wheel       342 Dec 10 18:20 creatbyproc.d
+-rwxr-xr-x   1 wheel     34752 Jan 13 18:05 crlrefresh
+-rwsr-xr-x   1 wheel     39024 Jan 13 18:05 crontab
+-rwxr-xr-x   1 wheel     14990 Oct 23 19:33 csdiagnose
+-rwxr-xr-x   1 wheel    562064 Jan 13 18:05 csgather
+-rwxr-xr-x   1 wheel     23888 Jan 13 18:05 csplit
+-rwxr-xr-x   1 wheel     37360 Jan 13 18:05 csreq
+-rwxr-xr-x   1 wheel     29552 Jan 13 18:05 csrutil
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 ctags
+-rwxr-xr-x   1 wheel     18192 Jan 13 18:05 ctf_insert
+-r-xr-xr-x   1 wheel    137024 Jan 13 18:05 cu
+-r-xr-xr-x   1 wheel      3190 Aug 15  2015 cups-config
+-r-xr-xr-x   1 wheel     22928 Jan 13 18:05 cupstestdsc
+-r-xr-xr-x   1 wheel     63216 Jan 13 18:05 cupstestppd
+-rwxr-xr-x   1 wheel    172016 Jan 13 18:05 curl
+-rwxr-xr-x   1 wheel      4091 Jul 31  2015 curl-config
+-rwxr-xr-x   1 wheel     23600 Jan 13 18:05 cut
+lrwxr-xr-x   1 wheel        59 Jan 23 00:42 cvaffinity -> /System/Library/Filesystems/acfs.fs/Contents/bin/cvaffinity
+lrwxr-xr-x   1 wheel        53 Jan 23 00:42 cvcp -> /System/Library/Filesystems/acfs.fs/Contents/bin/cvcp
+lrwxr-xr-x   1 wheel        56 Jan 23 00:42 cvmkdir -> /System/Library/Filesystems/acfs.fs/Contents/bin/cvmkdir
+lrwxr-xr-x   1 wheel        57 Jan 23 00:42 cvmkfile -> /System/Library/Filesystems/acfs.fs/Contents/bin/cvmkfile
+-rwxr-xr-x   1 wheel      7155 Dec 10 18:20 dappprof
+-rwxr-xr-x   1 wheel      7870 Dec 10 18:20 dapptrace
+-rwxr-xr-x   1 wheel    269408 Jan 13 18:05 darwinup
+-r-xr-xr-x   1 wheel   2172048 Jan 13 18:05 db_archive
+-r-xr-xr-x   1 wheel   2172096 Jan 13 18:05 db_checkpoint
+-r-xr-xr-x   1 wheel   2196640 Jan 13 18:05 db_codegen
+-r-xr-xr-x   1 wheel   2172096 Jan 13 18:05 db_deadlock
+-r-xr-xr-x   1 wheel   2172160 Jan 13 18:05 db_dump
+-r-xr-xr-x   1 wheel   2184576 Jan 13 18:05 db_hotbackup
+-r-xr-xr-x   1 wheel   2193152 Jan 13 18:05 db_load
+-r-xr-xr-x   1 wheel   2243424 Jan 13 18:05 db_printlog
+-r-xr-xr-x   1 wheel   2172192 Jan 13 18:05 db_recover
+-r-xr-xr-x   1 wheel   2172048 Jan 13 18:05 db_stat
+-r-xr-xr-x   1 wheel   2172048 Jan 13 18:05 db_upgrade
+-r-xr-xr-x   1 wheel   2172064 Jan 13 18:05 db_verify
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 dbicadmin
+-r-xr-xr-x   1 wheel      7078 Jul 31  2015 dbicadmin5.16
+-r-xr-xr-x   1 wheel      7195 Jul 31  2015 dbicadmin5.18
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 dbilogstrip
+-r-xr-xr-x   1 wheel      1469 Jul 31  2015 dbilogstrip5.16
+-r-xr-xr-x   1 wheel      1469 Jul 31  2015 dbilogstrip5.18
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 dbiprof
+-r-xr-xr-x   1 wheel      6305 Jul 31  2015 dbiprof5.16
+-r-xr-xr-x   1 wheel      6295 Jul 31  2015 dbiprof5.18
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 dbiproxy
+-r-xr-xr-x   1 wheel      5486 Jul 31  2015 dbiproxy5.16
+-r-xr-xr-x   1 wheel      5479 Jul 31  2015 dbiproxy5.18
+-rwxr-xr-x   1 wheel     50144 Jan 13 18:05 dc
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 debinhex.pl
+-r-xr-xr-x   1 wheel      5882 Jul 31  2015 debinhex5.18.pl
+-rwxr-xr-x   1 wheel     39312 Jan 13 18:05 defaults
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 desdp
+-rwxr-xr-x   1 wheel    113392 Jan 13 18:05 diff
+-rwxr-xr-x   1 wheel     36928 Jan 13 18:05 diff3
+-rwxr-xr-x   1 wheel     45056 Jan 13 18:05 diffstat
+-rwxr-xr-x   1 wheel   1572960 Jan 13 18:05 dig
+-rwxr-xr-x   1 wheel     18032 Jan 13 18:05 dirname
+-rwxr-xr-x   1 wheel      2515 Dec 10 18:20 diskhits
+-rwxr-xr-x   1 wheel      1290 Dec 10 18:20 dispqlen.d
+-rwxr-xr-x   1 wheel     34352 Jan 13 18:05 ditto
+-rwxr-xr-x   1 wheel     52896 Jan 13 18:05 dns-sd
+-rwxr-xr-x   1 wheel    271184 Jan 13 18:05 drutil
+-rwxr-xr-x   1 wheel     33984 Jan 13 18:05 dscacheutil
+-rwxr-xr-x   1 wheel    197760 Jan 13 18:05 dscl
+-rwxr-xr-x   1 wheel     17920 Jan 13 18:05 dserr
+-rwxr-xr-x   1 wheel     33152 Jan 13 18:05 dsexport
+-rwxr-xr-x   1 wheel     83600 Jan 13 18:05 dsimport
+-rwxr-xr-x   1 wheel     27648 Jan 13 18:05 dsmemberutil
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 dsymutil
+-rwxr-xr-x   1 wheel     26604 Dec 10 18:20 dtruss
+-rwxr-xr-x   1 wheel     23488 Jan 13 18:05 du
+-rwxr-xr-x   1 wheel     18192 Jan 13 18:05 dwarfdump
+-rwxr-xr-x   2 wheel       925 Jul 31  2015 easy_install
+-rwxr-xr-x   1 wheel       454 Jul 31  2015 easy_install-2.6
+-rwxr-xr-x   1 wheel       461 Jul 31  2015 easy_install-2.7
+-rwxr-xr-x   1 wheel    111520 Jan 13 18:05 efax
+-rwxr-xr-x   1 wheel     58768 Jan 13 18:05 efix
+-rwxr-xr-x   1 wheel     33728 Jan 13 18:05 egrep
+-r-xr-xr-x   1 wheel  35581744 Jan 13 18:05 emacs
+-rwxr-xr-x   1 wheel   3201184 Jan 13 18:05 emacs-undumped
+-rwxr-xr-x   1 wheel     36928 Jan 13 18:05 emacsclient
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 enc2xs
+-rwxr-xr-x   1 wheel     39189 Jul 31  2015 enc2xs5.16
+-rwxr-xr-x   1 wheel     39189 Jul 31  2015 enc2xs5.18
+-rwxr-xr-x   1 wheel     28672 Jan 13 18:05 encode_keychange
+-rwxr-xr-x   1 wheel     23392 Jan 13 18:05 env
+-rwxr-xr-x   1 wheel    144624 Jan 13 18:05 eqn
+-rwxr-xr-x   1 wheel      2680 Jul 31  2015 eqn2graph
+-r-xr-xr-x   1 wheel      4447 Jul 31  2015 erb
+-rwxr-xr-x   1 wheel      4516 Dec 10 18:20 errinfo
+-rwxr-xr-x   1 wheel    111056 Jan 13 18:05 etags
+lrwxr-xr-x   1 wheel         3 Jan 23 00:42 ex -> vim
+-rwxr-xr-x   1 wheel      5149 Dec 10 18:20 execsnoop
+-rwxr-xr-x   1 wheel     18480 Jan 13 18:05 expand
+-r-xr-xr-x   1 wheel     51536 Jan 13 18:05 expect
+lrwxr-xr-x   1 wheel        78 Jan 23 00:42 extcheck -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/extcheck
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 eyapp
+-r-xr-xr-x   1 wheel     12841 Jul 31  2015 eyapp5.16
+-r-xr-xr-x   1 wheel     12841 Jul 31  2015 eyapp5.18
+-rwxr-xr-x   1 wheel     17712 Jan 13 18:05 false
+-rwxr-xr-x   1 wheel     28530 Jul 31  2015 fax
+-rwxr-xr-x  15 wheel       190 Jul 31  2015 fc
+-rwxr-xr-x   1 wheel      2668 Dec 10 18:20 fddist
+-rwxr-xr-x   1 wheel    130688 Jan 13 18:05 fdesetup
+-rwxr-xr-x  15 wheel       190 Jul 31  2015 fg
+-rwxr-xr-x   1 wheel     33728 Jan 13 18:05 fgrep
+-rwxr-xr-x   1 wheel    212128 Jan 13 18:05 file
+-rwxr-xr-x   1 wheel       272 Dec 10 18:20 filebyproc.d
+-rwxr-xr-x   1 wheel    124864 Jan 13 18:05 filtercalltree
+-rwxr-xr-x   1 wheel     51584 Jan 13 18:05 find
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 find2perl
+-rwxr-xr-x   1 wheel     23634 Jul 31  2015 find2perl5.16
+-rwxr-xr-x   1 wheel     23634 Jul 31  2015 find2perl5.18
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 findrule
+-r-xr-xr-x   1 wheel      3418 Jul 31  2015 findrule5.16
+-r-xr-xr-x   1 wheel      3418 Jul 31  2015 findrule5.18
+-rwxr-xr-x   1 wheel     33760 Jan 13 18:05 finger
+-rwxr-xr-x   1 wheel     15523 Oct 23 17:01 fixproc
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 flex
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 flex++
+-rwxr-xr-x   1 wheel     23088 Jan 13 18:05 fmt
+-rwxr-xr-x   1 wheel     18704 Jan 13 18:05 fold
+lrwxr-xr-x   1 wheel       126 Jan 23 00:42 fontrestore -> ../../System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontmover
+-rwxr-xr-x   1 wheel     90000 Jan 13 18:05 footprint
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 format-sql
+-r-xr-xr-x   1 wheel       448 Jul 31  2015 format-sql5.16
+-r-xr-xr-x   1 wheel       448 Jul 31  2015 format-sql5.18
+-rwxr-xr-x   1 wheel     18672 Jan 13 18:05 from
+-rwxr-xr-x   1 wheel    135536 Jan 13 18:05 fs_usage
+-r-xr-xr-x   1 wheel    157056 Jan 13 18:05 ftp
+-rwxr-xr-x   1 wheel     39568 Jan 13 18:05 funzip
+-r-xr-xr-x   1 wheel      2610 Jul 31  2015 fuser
+-rwxr-xr-x   1 wheel     33808 Jan 13 18:05 fwkdp
+-rwxr-xr-x   1 wheel     42128 Jan 13 18:05 fwkpfv
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 g++
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 gatherheaderdoc
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 gcc
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 gcov
+-rwxr-xr-x   1 wheel      7198 Jul 31  2015 gdiffmk
+-r-xr-xr-x   1 wheel       596 Jul 31  2015 gem
+-r-xr-xr-x   1 wheel     80592 Aug 15  2015 gen_bridge_metadata
+-rwxr-xr-x   1 wheel     27392 Jan 13 18:05 gencat
+-rwxr-xr-x   1 wheel     18192 Jan 13 18:05 genstrings
+-rwxr-xr-x   1 wheel     63760 Jan 13 18:05 getconf
+-rwxr-xr-x   1 wheel     17904 Jan 13 18:05 getopt
+-rwxr-xr-x  15 wheel       190 Jul 31  2015 getopts
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 git
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 git-cvsserver
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 git-receive-pack
+-rwxr-xr-x   1 wheel     18192 Jan 13 18:05 git-shell
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 git-upload-archive
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 git-upload-pack
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 gm4
+-rwxr-xr-x   1 wheel       849 Jul 31  2015 gnuattach
+-rwxr-xr-x   1 wheel     32992 Jan 13 18:05 gnuclient
+-rwxr-xr-x   1 wheel      1039 Jul 31  2015 gnudoit
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 gnumake
+-rwxr-xr-x   1 wheel     28864 Jan 13 18:05 gnuserv
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 gperf
+-rwxr-xr-x   1 wheel      2431 Jul 31  2015 grap2graph
+-rwxr-xr-x   1 wheel     33728 Jan 13 18:05 grep
+-rwxr-xr-x   1 wheel     67968 Jan 13 18:05 grn
+-rwxr-xr-x   1 wheel     87088 Jan 13 18:05 grodvi
+-rwxr-xr-x   1 wheel     72160 Jan 13 18:05 groff
+-rwxr-xr-x   1 wheel      7074 Jul 31  2015 groffer
+-rwxr-xr-x   1 wheel      2471 Jul 31  2015 grog
+-rwxr-xr-x   1 wheel     94816 Jan 13 18:05 grolbp
+-rwxr-xr-x   1 wheel     82560 Jan 13 18:05 grolj4
+-rwxr-xr-x   1 wheel    120400 Jan 13 18:05 grops
+-rwxr-xr-x   1 wheel     82704 Jan 13 18:05 grotty
+-rwxr-xr-x   1 wheel     23136 Jan 13 18:05 groups
+-rwxr-xr-x   1 wheel     52736 Jan 13 18:05 gunzip
+-rwxr-xr-x   1 wheel     52736 Jan 13 18:05 gzcat
+-rwxr-xr-x   1 wheel      4085 Oct 27 16:15 gzexe
+-rwxr-xr-x   1 wheel     46848 Jan 13 18:05 gzip
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 h2ph
+-rwxr-xr-x   1 wheel     28167 Jul 31  2015 h2ph5.16
+-rwxr-xr-x   1 wheel     28167 Jul 31  2015 h2ph5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 h2xs
+-rwxr-xr-x   1 wheel     60600 Jul 31  2015 h2xs5.16
+-rwxr-xr-x   1 wheel     60725 Jul 31  2015 h2xs5.18
+-rwxr-xr-x  15 wheel       190 Jul 31  2015 hash
+-rwxr-xr-x   1 wheel     17840 Jan 13 18:05 hdid
+-rwxr-xr-x   1 wheel    352416 Jan 13 18:05 hdiutil
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 hdxml2manxml
+-rwxr-xr-x   1 wheel     18832 Jan 13 18:05 head
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 headerdoc2html
+-rwxr-xr-x   1 wheel     70256 Jan 13 18:05 heap
+-rwxr-xr-x   1 wheel     82544 Jan 13 18:05 heap32
+-rwxr-xr-x   1 wheel     32704 Jan 13 18:05 hexdump
+-rwxr-xr-x   1 wheel     86736 Jan 13 18:05 hiutil
+-rwxr-xr-x   1 wheel   1560480 Jan 13 18:05 host
+-rwxr-xr-x   1 wheel     43040 Jan 13 18:05 hostinfo
+-rwxr-xr-x   1 wheel      1939 Dec 10 18:20 hotspot.d
+-rwxr-xr-x   1 wheel    126368 Jan 13 18:05 hpftodit
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 htmltree
+-r-xr-xr-x   1 wheel      1177 Jul 31  2015 htmltree5.16
+-r-xr-xr-x   1 wheel      1177 Jul 31  2015 htmltree5.18
+-rwxr-xr-x   1 wheel      2523 Dec 10 18:20 httpdstat.d
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 ibtool
+-rwxr-xr-x   1 wheel     27872 Jan 13 18:05 iconutil
+-rwxr-xr-x   1 wheel     32032 Jan 13 18:05 iconv
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 ictool
+-rwxr-xr-x   1 wheel     23136 Jan 13 18:05 id
+-rwxr-xr-x   5 wheel       925 Oct 23 18:11 idle
+lrwxr-xr-x   1 wheel        73 Jan 23 00:42 idle2.6 -> ../../System/Library/Frameworks/Python.framework/Versions/2.6/bin/idle2.6
+lrwxr-xr-x   1 wheel        73 Jan 23 00:42 idle2.7 -> ../../System/Library/Frameworks/Python.framework/Versions/2.7/bin/idle2.7
+lrwxr-xr-x   1 wheel        74 Jan 23 00:42 idlj -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/idlj
+-rwxr-xr-x   1 wheel      8277 Dec 10 19:24 imptrace
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 indent
+-rwxr-xr-x   1 wheel     44208 Jan 13 18:05 indxbib
+-rwxr-xr-x   1 wheel    178688 Jan 13 18:05 info
+-rwxr-xr-x   1 wheel     58512 Jan 13 18:05 infocmp
+-rwxr-xr-x   1 wheel     59248 Jan 13 18:05 infokey
+lrwxr-xr-x   1 wheel         3 Jan 23 00:42 infotocap -> tic
+-rwxr-xr-x   1 wheel     28448 Jan 13 18:05 install
+-rwxr-xr-x   1 wheel     63888 Jan 13 18:05 install-info
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 install_name_tool
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 instmodsh
+-rwxr-xr-x   1 wheel      4288 Jul 31  2015 instmodsh5.16
+-rwxr-xr-x   1 wheel      4288 Jul 31  2015 instmodsh5.18
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 instruments
+-rwxr-xr-x   1 wheel      1976 Dec 10 18:20 iofile.d
+-rwxr-xr-x   1 wheel      1573 Dec 10 18:20 iofileb.d
+-rwxr-xr-x   1 wheel      6615 Dec 10 18:20 iopattern
+-rwxr-xr-x   1 wheel      5942 Dec 10 18:20 iopending
+-rwxr-xr-x   1 wheel     12135 Dec 10 18:20 iosnoop
+-rwxr-xr-x   1 wheel     11884 Dec 10 18:20 iotop
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 ip2cc
+-r-xr-xr-x   1 wheel      2116 Jul 31  2015 ip2cc5.16
+-r-xr-xr-x   1 wheel      2116 Jul 31  2015 ip2cc5.18
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 ipcount
+-r-xr-xr-x   1 wheel      3728 Jul 31  2015 ipcount5.16
+-r-xr-xr-x   1 wheel      3728 Jul 31  2015 ipcount5.18
+-rwxr-xr-x   1 wheel     18480 Jan 13 18:05 ipcrm
+-rwxr-xr-x   1 wheel     26752 Jan 13 18:05 ipcs
+-rwxr-xr-x   1 wheel    309200 Jan 13 18:05 ipmitool
+-r-xr-xr-x   1 wheel     47008 Jan 13 18:05 ippfind
+-r-xr-xr-x   1 wheel     87424 Jan 13 18:05 ipptool
+-rwxr-xr-x   1 wheel     18192 Jan 13 18:05 iprofiler
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 iptab
+-r-xr-xr-x   1 wheel       986 Jul 31  2015 iptab5.16
+-r-xr-xr-x   1 wheel       986 Jul 31  2015 iptab5.18
+-r-xr-xr-x   1 wheel       368 Jul 31  2015 irb
+lrwxr-xr-x   1 wheel        73 Jan 23 00:42 jar -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jar
+lrwxr-xr-x   1 wheel        79 Jan 23 00:42 jarsigner -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jarsigner
+lrwxr-xr-x   1 wheel        74 Jan 23 00:42 java -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/java
+lrwxr-xr-x   1 wheel        75 Jan 23 00:42 javac -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/javac
+lrwxr-xr-x   1 wheel        77 Jan 23 00:42 javadoc -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/javadoc
+lrwxr-xr-x   1 wheel        75 Jan 23 00:42 javah -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/javah
+lrwxr-xr-x   1 wheel        75 Jan 23 00:42 javap -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/javap
+lrwxr-xr-x   1 wheel        76 Jan 23 00:42 javaws -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/javaws
+lrwxr-xr-x   1 wheel        74 Jan 23 00:42 jcmd -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jcmd
+lrwxr-xr-x   1 wheel        78 Jan 23 00:42 jconsole -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jconsole
+lrwxr-xr-x   1 wheel        73 Jan 23 00:42 jdb -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jdb
+lrwxr-xr-x   1 wheel        75 Jan 23 00:42 jdeps -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jdeps
+lrwxr-xr-x   1 wheel        74 Jan 23 00:42 jhat -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jhat
+lrwxr-xr-x   1 wheel        75 Jan 23 00:42 jinfo -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jinfo
+lrwxr-xr-x   1 wheel        73 Jan 23 00:42 jjs -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jjs
+lrwxr-xr-x   1 wheel        74 Jan 23 00:42 jmap -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jmap
+lrwxr-xr-x   1 wheel        73 Jan 23 00:42 jmc -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jmc
+-rwxr-xr-x  15 wheel       190 Jul 31  2015 jobs
+-rwxr-xr-x   1 wheel     23392 Jan 13 18:05 join
+-rwxr-xr-x   1 wheel     22976 Jan 13 18:05 jot
+lrwxr-xr-x   1 wheel        73 Jan 23 00:42 jps -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jps
+lrwxr-xr-x   1 wheel        80 Jan 23 00:42 jrunscript -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jrunscript
+lrwxr-xr-x   1 wheel        79 Jan 23 00:42 jsadebugd -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jsadebugd
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 json_pp
+-rwxr-xr-x   1 wheel      3953 Jul 31  2015 json_pp5.16
+-rwxr-xr-x   1 wheel      3953 Jul 31  2015 json_pp5.18
+lrwxr-xr-x   1 wheel        76 Jan 23 00:42 jstack -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jstack
+lrwxr-xr-x   1 wheel        75 Jan 23 00:42 jstat -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jstat
+lrwxr-xr-x   1 wheel        76 Jan 23 00:42 jstatd -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jstatd
+lrwxr-xr-x   1 wheel        79 Jan 23 00:42 jvisualvm -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/jvisualvm
+-rwxr-xr-x   1 wheel     51184 Jan 13 18:05 kcc
+-rwxr-xr-x   1 wheel     28912 Jan 13 18:05 kdestroy
+-rwxr-xr-x   1 wheel    163392 Jan 13 18:05 kextutil
+lrwxr-xr-x   1 wheel        77 Jan 23 00:42 keytool -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/keytool
+-rwxr-xr-x   1 wheel     29840 Jan 13 18:05 kgetcred
+-rwxr-xr-x   1 wheel      1621 Dec 10 18:20 kill.d
+-rwxr-xr-x   1 wheel     23872 Jan 13 18:05 killall
+-rwxr-xr-x   1 wheel     48144 Jan 13 18:05 kinit
+lrwxr-xr-x   1 wheel         3 Jan 23 00:42 klist -> kcc
+-rwxr-xr-x   1 wheel     30032 Jan 13 18:05 kpasswd
+-rwxr-xr-x   1 wheel      3252 Jul 31  2015 krb5-config
+lrwxr-xr-x   1 wheel         3 Jan 23 00:42 kswitch -> kcc
+-rwxr-xr-x   1 wheel     18528 Jan 13 18:05 lam
+-rwxr-xr-x   1 wheel     23280 Jan 13 18:05 last
+-rwxr-xr-x   1 wheel     18880 Jan 13 18:05 lastcomm
+-rwxr-xr-x   1 wheel      2302 Dec 10 18:20 lastwords
+-rwxr-xr-x   1 wheel    102432 Jan 13 18:05 latency
+-rwxr-xr-x   1 wheel    572064 Jan 13 18:05 layerutil
+-rwxr-xr-x   1 wheel     18160 Jan 13 18:05 ld
+lrwxr-xr-x   1 wheel        10 Jan 23 00:42 ldapadd -> ldapmodify
+-rwxr-xr-x   1 wheel    308576 Jan 13 18:05 ldapcompare
+-rwxr-xr-x   1 wheel    308528 Jan 13 18:05 ldapdelete
+-rwxr-xr-x   1 wheel    312704 Jan 13 18:05 ldapexop
+-rwxr-xr-x   1 wheel    321200 Jan 13 18:05 ldapmodify
+-rwxr-xr-x   1 wheel    308576 Jan 13 18:05 ldapmodrdn
+-rwxr-xr-x   1 wheel    308448 Jan 13 18:05 ldappasswd
+-rwxr-xr-x   1 wheel    341056 Jan 13 18:05 ldapsearch
+-rwxr-xr-x   1 wheel    259168 Jan 13 18:05 ldapurl
+-rwxr-xr-x   1 wheel    308528 Jan 13 18:05 ldapwhoami
+-rwxr-xr-x   1 wheel     91728 Jan 13 18:05 leaks
+-rwxr-xr-x   1 wheel    108384 Jan 13 18:05 leaks32
+-r-xr-xr-x   1 wheel     18304 Jan 13 18:05 leave
+-rwxr-xr-x   1 wheel    129152 Jan 13 18:05 less
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 lessecho
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 lex
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 libnetcfg
+-rwxr-xr-x   1 wheel     15759 Jul 31  2015 libnetcfg5.16
+-rwxr-xr-x   1 wheel     15754 Jul 31  2015 libnetcfg5.18
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 libtool
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 lipo
+-rwxr-xr-x   1 wheel     50336 Jan 13 18:05 lkbib
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 lldb
+lrwxr-xr-x   1 wheel         7 Jan 23 00:42 llvm-g++ -> clang++
+lrwxr-xr-x   1 wheel         5 Jan 23 00:42 llvm-gcc -> clang
+-rwxr-xr-x   1 wheel      1936 Dec 10 18:20 loads.d
+-rwxr-xr-x   1 wheel     68320 Jan 13 18:05 locale
+-rwxr-xr-x   1 wheel     30650 Jul 31  2015 localedef
+-rwxr-xr-x   1 wheel     23296 Jan 13 18:05 locate
+-rwxr-xr-x   1 wheel     57536 Jan 13 18:05 lockstat
+-r-xr-xr-x   1 wheel     18720 Jan 13 18:05 logger
+-r-sr-xr-x   1 wheel     76336 Jan 13 18:05 login
+-rwxr-xr-x   1 wheel     18080 Jan 13 18:05 logname
+-rwxr-xr-x   1 wheel     18720 Jan 13 18:05 look
+-rwxr-xr-x   1 wheel     50592 Jan 13 18:05 lookbib
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 lorder
+-r-xr-xr-x   1 wheel     28240 Jan 13 18:05 lp
+-r-xr-xr-x   1 wheel     24016 Jan 13 18:05 lpoptions
+-r-xr-xr-x   1 wheel     24048 Jan 13 18:05 lpq
+-r-xr-xr-x   1 wheel     23792 Jan 13 18:05 lpr
+-r-xr-xr-x   1 wheel     18448 Jan 13 18:05 lprm
+-r-xr-xr-x   1 wheel     36832 Jan 13 18:05 lpstat
+-rwxr-xr-x   1 wheel    246496 Jan 13 18:05 lsappinfo
+-rwxr-xr-x   1 wheel     29088 Jan 13 18:05 lsbom
+-rwxr-xr-x   1 wheel     51712 Jan 13 18:05 lskq
+-rwxr-xr-x   1 wheel     52368 Jan 13 18:05 lsm
+-rwxr-xr-x   1 wheel     77984 Jan 13 18:05 lsmp
+-rwxr-xr-x   1 wheel     18240 Jan 13 18:05 lsvfs
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 lwp-download
+-r-xr-xr-x   1 wheel      8639 Jul 31  2015 lwp-download5.16
+-r-xr-xr-x   1 wheel      8639 Jul 31  2015 lwp-download5.18
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 lwp-dump
+-r-xr-xr-x   1 wheel      2802 Jul 31  2015 lwp-dump5.16
+-r-xr-xr-x   1 wheel      2802 Jul 31  2015 lwp-dump5.18
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 lwp-mirror
+-r-xr-xr-x   1 wheel      2481 Jul 31  2015 lwp-mirror5.16
+-r-xr-xr-x   1 wheel      2482 Jul 31  2015 lwp-mirror5.18
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 lwp-request
+-r-xr-xr-x   1 wheel     15063 Jul 31  2015 lwp-request5.16
+-r-xr-xr-x   1 wheel     15063 Jul 31  2015 lwp-request5.18
+-rwxr-xr-x   1 wheel     18160 Jan 13 18:05 m4
+-rwxr-xr-x   1 wheel     41872 Jan 13 18:05 macbinary
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 macerror
+-r-xr-xr-x   1 wheel       728 Jul 31  2015 macerror5.16
+-r-xr-xr-x   1 wheel       728 Jul 31  2015 macerror5.18
+-rwxr-xr-x   1 wheel     66880 Jan 13 18:05 machine
+-rwxr-xr-x   1 wheel     89552 Jan 13 18:05 mail
+lrwxr-xr-x   1 wheel        16 Jan 23 00:43 mailq -> ../sbin/sendmail
+-rwxr-xr-x   1 wheel     89552 Jan 13 18:05 mailx
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 make
+-rwxr-xr-x   1 wheel    246464 Jan 13 18:05 makeinfo
+-rwxr-xr-x   1 wheel     81248 Jan 13 18:05 malloc_history
+-rwxr-xr-x   1 wheel    101168 Jan 13 18:05 malloc_history32
+-r-xr-xr-x   1 wheel     69936 Jan 13 18:05 man
+lrwxr-xr-x   1 wheel         3 Jan 23 00:43 manpath -> man
+-rwxr-xr-x   1 wheel     77504 Jan 13 18:05 mcxquery
+-rwxr-xr-x   1 wheel     23168 Jan 13 18:05 mcxrefresh
+-rwxr-xr-x   1 wheel    144992 Jan 13 18:05 mddiagnose
+-rwxr-xr-x   1 wheel     29152 Jan 13 18:05 mdfind
+-rwxr-xr-x   1 wheel    253152 Jan 13 18:05 mdimport
+-rwxr-xr-x   1 wheel    259760 Jan 13 18:05 mdimport32
+-rwxr-xr-x   1 wheel     23920 Jan 13 18:05 mdls
+-rwxr-xr-x   1 wheel     72192 Jan 13 18:05 mdutil
+-rwxr-xr-x   1 wheel     68560 Jan 13 18:05 memory_pressure
+-r-xr-xr-x   1 wheel     18112 Jan 13 18:05 mesg
+-rwxr-xr-x   1 wheel     43760 Oct 23 17:01 mib2c
+-rwxr-xr-x   1 wheel      8780 Oct 23 17:01 mib2c-update
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 mig
+-rwxr-xr-x   1 wheel     19808 Jan 13 18:05 mkbom
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 mkdep
+-rwxr-xr-x   1 wheel     18304 Jan 13 18:05 mkfifo
+-rwxr-xr-x   1 wheel     40160 Jan 13 18:05 mklocale
+-rwxr-xr-x   1 wheel     18704 Jan 13 18:05 mktemp
+-rwxr-xr-x   1 wheel      2975 Jul 31  2015 mmroff
+-rwxr-xr-x   1 wheel     28592 Jan 13 18:05 mnthome
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 moo-outdated
+-r-xr-xr-x   1 wheel       448 Jul 31  2015 moo-outdated5.18
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 moose-outdated
+-r-xr-xr-x   1 wheel       455 Jul 31  2015 moose-outdated5.16
+-r-xr-xr-x   1 wheel       455 Jul 31  2015 moose-outdated5.18
+-rwxr-xr-x   1 wheel    129152 Jan 13 18:05 more
+-rwxr-xr-x   1 wheel     29360 Jan 13 18:05 msgs
+-rwxr-xr-x   1 wheel    144880 Jan 13 18:05 nano
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 nasm
+lrwxr-xr-x   1 wheel        82 Jan 23 00:43 native2ascii -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/native2ascii
+-rwxr-xr-x   1 wheel     25344 Jan 13 18:05 nbdst
+-r-xr-xr-x   1 wheel     42400 Jan 13 18:05 nc
+-r-xr-xr-x   1 wheel     31728 Jan 13 18:05 ncal
+-r-xr-xr-x   1 wheel     23808 Jan 13 18:05 ncctl
+-r-xr-xr-x   1 wheel     23808 Jan 13 18:05 ncdestroy
+-r-xr-xr-x   1 wheel     23808 Jan 13 18:05 ncinit
+-r-xr-xr-x   1 wheel     23808 Jan 13 18:05 nclist
+-rwxr-xr-x   1 wheel      4977 Jul 31  2015 ncurses5.4-config
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 ndisasm
+-rwxr-xr-x   1 wheel       271 Jul 31  2015 neqn
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 net-server
+-r-xr-xr-x   1 wheel      3429 Jul 31  2015 net-server5.16
+-r-xr-xr-x   1 wheel      3429 Jul 31  2015 net-server5.18
+-rwxr-xr-x   1 wheel     78699 Oct 23 17:01 net-snmp-cert
+-rwxr-xr-x   1 wheel     25120 Oct 23 17:02 net-snmp-config
+-rwxr-xr-x   1 wheel      3656 Oct 23 16:59 net-snmp-create-v3-user
+-rwxr-xr-x   1 wheel     61424 Jan 13 18:05 nettop
+lrwxr-xr-x   1 wheel        16 Jan 23 00:43 newaliases -> ../sbin/sendmail
+-r-sr-xr-x   1 wheel     52560 Jan 13 18:05 newgrp
+-rwxr-xr-x   1 wheel      4376 Dec 10 18:20 newproc.d
+-r-xr-xr-x   1 wheel     45008 Jan 13 18:05 nfsstat
+-rwxr-xr-x   1 wheel     18320 Jan 13 18:05 nice
+-rwxr-xr-x   1 wheel     23440 Jan 13 18:05 nl
+-rwxr-xr-x   1 wheel     18160 Jan 13 18:05 nm
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 nmedit
+-rwxr-xr-x   1 wheel     18544 Jan 13 18:05 nohup
+-rwxr-xr-x   1 wheel     28912 Jan 13 18:05 notifyutil
+-rwxr-xr-x   1 wheel      2357 Jul 31  2015 nroff
+-rwxr-xr-x   1 wheel     96224 Jan 13 18:05 nscurl
+-rwxr-xr-x   1 wheel   1560384 Jan 13 18:05 nslookup
+-rwxr-xr-x   1 wheel   1555264 Jan 13 18:05 nsupdate
+-rwxr-xr-x   1 wheel     59056 Jan 13 18:05 ntp-keygen
+-rwxr-xr-x   1 wheel    134160 Jan 13 18:05 ntpq
+-rwxr-xr-x   1 wheel     32704 Jan 13 18:05 od
+-rwxr-xr-x   1 wheel     61200 Jan 13 18:05 odutil
+-rwxr-xr-x   1 wheel     96816 Jan 13 18:05 open
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 opendiff
+-rwxr-xr-x   1 wheel      8034 Dec 10 18:20 opensnoop
+-rwxr-xr-x   1 wheel    922640 Jan 13 18:05 openssl
+lrwxr-xr-x   1 wheel        74 Jan 23 00:43 orbd -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/orbd
+-rwxr-xr-x   1 wheel     41648 Jan 13 18:05 osacompile
+-rwxr-xr-x   1 wheel     19856 Jan 13 18:05 osadecompile
+-rwxr-xr-x   1 wheel     18496 Jan 13 18:05 osalang
+-rwxr-xr-x   1 wheel     42928 Jan 13 18:05 osascript
+-rwxr-xr-x   1 wheel     67600 Jan 13 18:05 ostraceutil
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 otool
+lrwxr-xr-x   1 wheel        77 Jan 23 00:43 pack200 -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/pack200
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 package-stash-conflicts
+-r-xr-xr-x   1 wheel       491 Jul 31  2015 package-stash-conflicts5.16
+-r-xr-xr-x   1 wheel       844 Jul 31  2015 package-stash-conflicts5.18
+-rwxr-xr-x   1 wheel      2006 Dec 10 18:22 pagesize
+-rwxr-xr-x   1 wheel     18192 Jan 13 18:05 pagestuff
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 par.pl
+-r-xr-xr-x   1 wheel     29540 Jul 31  2015 par5.16.pl
+-r-xr-xr-x   1 wheel     29555 Jul 31  2015 par5.18.pl
+-rwxr-xr-x   1 wheel     66736 Jan 13 18:05 parl
+-r-xr-xr-x   1 wheel   5468864 Jan 13 18:05 parl5.16
+-r-xr-xr-x   1 wheel   5645472 Jan 13 18:05 parl5.18
+-rwxr-xr-x   1 wheel     66736 Jan 13 18:05 parldyn
+-r-xr-xr-x   1 wheel    120736 Jan 13 18:05 parldyn5.16
+-r-xr-xr-x   1 wheel    129008 Jan 13 18:05 parldyn5.18
+-rwxr-xr-x   1 wheel     68176 Jan 13 18:05 passwd
+-rwxr-xr-x   1 wheel     18496 Jan 13 18:05 paste
+-rwxr-xr-x   1 wheel     94784 Jan 13 18:05 patch
+-rwxr-xr-x   1 wheel     18416 Jan 13 18:05 pathchk
+-rwxr-xr-x   1 wheel      2378 Dec 10 18:20 pathopens.d
+-rwxr-xr-x   1 wheel     23472 Jan 13 18:05 pbcopy
+-rwxr-xr-x   1 wheel     23472 Jan 13 18:05 pbpaste
+-rwxr-xr-x   1 wheel       199 Oct 23 15:31 pcap-config
+-rwxr-xr-x   1 wheel     43152 Jan 13 18:05 pcsctest
+-rwxr-xr-x   1 wheel     66480 Jan 13 18:05 perl
+-rwxr-xr-x   1 wheel     43680 Jan 13 18:05 perl5.16
+-rwxr-xr-x   1 wheel     43680 Jan 13 18:05 perl5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 perlbug
+-rwxr-xr-x   1 wheel     41917 Jul 31  2015 perlbug5.16
+-rwxr-xr-x   1 wheel     41944 Jul 31  2015 perlbug5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 perldoc
+-rwxr-xr-x   1 wheel       259 Jul 31  2015 perldoc5.16
+-rwxr-xr-x   1 wheel       259 Jul 31  2015 perldoc5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 perlivp
+-rwxr-xr-x   1 wheel     10807 Jul 31  2015 perlivp5.16
+-rwxr-xr-x   1 wheel     10807 Jul 31  2015 perlivp5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 perlthanks
+-rwxr-xr-x   1 wheel     41917 Jul 31  2015 perlthanks5.16
+-rwxr-xr-x   1 wheel     41944 Jul 31  2015 perlthanks5.18
+-rwxr-xr-x   1 wheel     22800 Jan 13 18:05 pfbtops
+-rwxr-xr-x   1 wheel     30032 Jan 13 18:05 pgrep
+lrwxr-xr-x   1 wheel         9 Jan 23 00:43 phar -> phar.phar
+-rwxr-xr-x   1 wheel     14823 Oct 23 17:23 phar.phar
+-rwxr-xr-x   1 wheel  10577504 Jan 13 18:05 php
+-rwxr-xr-x   1 wheel      3312 Oct 23 17:24 php-config
+-rwxr-xr-x   1 wheel      4508 Oct 23 17:23 phpize
+-rwxr-xr-x   1 wheel    216752 Jan 13 18:05 pic
+-rwxr-xr-x   1 wheel      3018 Jul 31  2015 pic2graph
+lrwxr-xr-x   1 wheel         4 Jan 23 00:43 pico -> nano
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 piconv
+-rwxr-xr-x   1 wheel      7372 Jul 31  2015 piconv5.16
+-rwxr-xr-x   1 wheel      7372 Jul 31  2015 piconv5.18
+-rwxr-xr-x   1 wheel      1295 Dec 10 18:20 pidpersec.d
+-rwxr-xr-x   1 wheel     82144 Jan 13 18:05 pkgbuild
+-rwxr-xr-x   1 wheel     30032 Jan 13 18:05 pkill
+-rwxr-xr-x   1 wheel     22816 Jan 13 18:05 pl
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 pl2pm
+-rwxr-xr-x   1 wheel      4566 Jul 31  2015 pl2pm5.16
+-rwxr-xr-x   1 wheel      4566 Jul 31  2015 pl2pm5.18
+-rwxr-xr-x   1 wheel     33392 Jan 13 18:05 plockstat
+-rwxr-xr-x   1 wheel    162704 Jan 13 18:05 pluginkit
+-rwxr-xr-x   1 wheel     40912 Jan 13 18:05 plutil
+-rwxr-xr-x   1 wheel    177248 Jan 13 18:05 pmset
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 pod2html
+-rwxr-xr-x   1 wheel      2073 Jul 31  2015 pod2html5.16
+-rwxr-xr-x   1 wheel      2073 Jul 31  2015 pod2html5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 pod2latex
+-rwxr-xr-x   1 wheel     10374 Jul 31  2015 pod2latex5.16
+-rwxr-xr-x   1 wheel     10374 Jul 31  2015 pod2latex5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 pod2man
+-rwxr-xr-x   1 wheel     11611 Jul 31  2015 pod2man5.16
+-rwxr-xr-x   1 wheel     13700 Jul 31  2015 pod2man5.18
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 pod2readme
+-r-xr-xr-x   1 wheel      1603 Jul 31  2015 pod2readme5.16
+-r-xr-xr-x   1 wheel      1603 Jul 31  2015 pod2readme5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 pod2text
+-rwxr-xr-x   1 wheel      9154 Jul 31  2015 pod2text5.16
+-rwxr-xr-x   1 wheel     11123 Jul 31  2015 pod2text5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 pod2usage
+-rwxr-xr-x   1 wheel      3462 Jul 31  2015 pod2usage5.16
+-rwxr-xr-x   1 wheel      3790 Jul 31  2015 pod2usage5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 podchecker
+-rwxr-xr-x   1 wheel      3819 Jul 31  2015 podchecker5.16
+-rwxr-xr-x   1 wheel      3819 Jul 31  2015 podchecker5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 podselect
+-rwxr-xr-x   1 wheel      2647 Jul 31  2015 podselect5.16
+-rwxr-xr-x   1 wheel      2647 Jul 31  2015 podselect5.18
+lrwxr-xr-x   1 wheel        80 Jan 23 00:43 policytool -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/policytool
+-rwxr-xr-x   1 wheel    151072 Jan 13 18:05 post-grohtml
+-rwxr-xr-x   1 wheel       951 Dec 10 19:27 power_report.sh
+-rwxr-xr-x   1 wheel    148384 Jan 13 18:05 powermetrics
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 pp
+-r-xr-xr-x   1 wheel       152 Jul 31  2015 pp5.16
+-r-xr-xr-x   1 wheel       152 Jul 31  2015 pp5.18
+-r-xr-xr-x   1 wheel     25232 Jan 13 18:05 ppdc
+-r-xr-xr-x   1 wheel     23568 Jan 13 18:05 ppdhtml
+-r-xr-xr-x   1 wheel     18720 Jan 13 18:05 ppdi
+-r-xr-xr-x   1 wheel     24192 Jan 13 18:05 ppdmerge
+-r-xr-xr-x   1 wheel     23712 Jan 13 18:05 ppdpo
+-rwxr-xr-x   1 wheel     32080 Jan 13 18:05 pr
+-rwxr-xr-x   1 wheel     73664 Jan 13 18:05 pre-grohtml
+-rwxr-xr-x   1 wheel      1839 Dec 10 18:20 priclass.d
+-rwxr-xr-x   1 wheel      1836 Dec 10 18:20 pridist.d
+-rwxr-xr-x   1 wheel     18064 Jan 13 18:05 printenv
+-rwxr-xr-x   1 wheel     22880 Jan 13 18:05 printf
+-rwxr-xr-x   1 wheel      6344 Dec 10 18:20 procsystime
+-rwxr-xr-x   1 wheel    121872 Jan 13 18:05 productbuild
+-rwxr-xr-x   1 wheel     34256 Jan 13 18:05 productsign
+-rwxr-xr-x   1 wheel     86480 Jan 13 18:05 profiles
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 prove
+-rwxr-xr-x   1 wheel     11120 Jul 31  2015 prove5.16
+-rwxr-xr-x   1 wheel     11120 Jul 31  2015 prove5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 psed
+-rwxr-xr-x   1 wheel     53364 Jul 31  2015 psed5.16
+-rwxr-xr-x   1 wheel     53364 Jul 31  2015 psed5.18
+-rwxr-xr-x   1 wheel     23856 Jan 13 18:05 pstopdf
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 pstruct
+-rwxr-xr-x   1 wheel     36642 Jul 31  2015 pstruct5.16
+-rwxr-xr-x   1 wheel     36642 Jul 31  2015 pstruct5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 ptar
+-rwxr-xr-x   1 wheel      3015 Jul 31  2015 ptar5.16
+-rwxr-xr-x   1 wheel      3559 Jul 31  2015 ptar5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 ptardiff
+-rwxr-xr-x   1 wheel      2507 Jul 31  2015 ptardiff5.16
+-rwxr-xr-x   1 wheel      2507 Jul 31  2015 ptardiff5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 ptargrep
+-rwxr-xr-x   1 wheel      4274 Jul 31  2015 ptargrep5.16
+-rwxr-xr-x   1 wheel      4274 Jul 31  2015 ptargrep5.18
+-rwxr-xr-x   1 wheel    114256 Jan 13 18:05 pubsub
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 pwhich
+-r-xr-xr-x   1 wheel      3106 Jul 31  2015 pwhich5.16
+-r-xr-xr-x   1 wheel      3106 Jul 31  2015 pwhich5.18
+-rwxr-xr-x   1 wheel     47712 Jan 13 18:05 pwpolicy
+-rwxr-xr-x   5 wheel       925 Oct 23 18:11 pydoc
+lrwxr-xr-x   1 wheel        74 Jan 23 00:43 pydoc2.6 -> ../../System/Library/Frameworks/Python.framework/Versions/2.6/bin/pydoc2.6
+lrwxr-xr-x   1 wheel        74 Jan 23 00:43 pydoc2.7 -> ../../System/Library/Frameworks/Python.framework/Versions/2.7/bin/pydoc2.7
+-rwxr-xr-x   1 wheel     66480 Jan 13 18:05 python
+-rwxr-xr-x   5 wheel       925 Oct 23 18:11 python-config
+lrwxr-xr-x   1 wheel        75 Jan 23 00:43 python2.6 -> ../../System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6
+lrwxr-xr-x   1 wheel        82 Jan 23 00:43 python2.6-config -> ../../System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6-config
+lrwxr-xr-x   1 wheel        75 Jan 23 00:43 python2.7 -> ../../System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7
+lrwxr-xr-x   1 wheel        82 Jan 23 00:43 python2.7-config -> ../../System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7-config
+-rwxr-xr-x   1 wheel     66480 Jan 13 18:05 pythonw
+lrwxr-xr-x   1 wheel        76 Jan 23 00:43 pythonw2.6 -> ../../System/Library/Frameworks/Python.framework/Versions/2.6/bin/pythonw2.6
+lrwxr-xr-x   1 wheel        76 Jan 23 00:43 pythonw2.7 -> ../../System/Library/Frameworks/Python.framework/Versions/2.7/bin/pythonw2.7
+-rwxr-xr-x   1 wheel     49056 Jan 13 18:05 qc2movie
+lrwxr-xr-x   1 wheel       100 Jan 23 00:43 qlmanage -> ../../System/Library/Frameworks/QuickLook.framework/Resources/quicklookd.app/Contents/MacOS/qlmanage
+-rwxr-xr-x   1 wheel     54976 Jan 13 18:05 qtdefaults
+-rwxr-xr-x   1 wheel     82496 Jan 13 18:05 qtmodernizer
+-r-sr-xr-x   1 wheel     23488 Jan 13 18:05 quota
+-r-xr-xr-x   1 wheel       549 Jul 31  2015 rails
+-r-xr-xr-x   1 wheel      1370 Jul 31  2015 rake
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 ranlib
+-r-xr-xr-x   1 wheel       988 Jul 31  2015 rdoc
+-rwxr-xr-x  15 wheel       190 Jul 31  2015 read
+-rwxr-xr-x   1 wheel     27376 Jan 13 18:05 readlink
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 rebase
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 redo_prebinding
+-rwxr-xr-x   1 wheel    117616 Jan 13 18:05 refer
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 renice
+lrwxr-xr-x   1 wheel         4 Jan 23 00:43 reset -> tset
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 resolveLinks
+-rwxr-xr-x   1 wheel     18320 Jan 13 18:05 rev
+-r-xr-xr-x   1 wheel       238 Jul 31  2015 ri
+-r-xr-xr-x   1 wheel     24928 Jan 13 18:05 rlogin
+lrwxr-xr-x   1 wheel        74 Jan 23 00:43 rmic -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/rmic
+lrwxr-xr-x   1 wheel        74 Jan 23 00:43 rmid -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/rmid
+lrwxr-xr-x   1 wheel        81 Jan 23 00:43 rmiregistry -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/rmiregistry
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 rpcgen
+-rwxr-xr-x   1 wheel     22608 Jan 13 18:05 rs
+-r-xr-xr-x   1 wheel     24048 Jan 13 18:05 rsh
+-rwxr-xr-x   1 wheel    294704 Jan 13 18:05 rsync
+-r-xr-xr-x   1 wheel     42864 Jan 13 18:05 ruby
+-rwxr-xr-x   1 wheel      1425 Dec 10 18:20 runocc.d
+-r-xr-xr-x   1 wheel     23344 Jan 13 18:05 ruptime
+lrwxr-xr-x   1 wheel         3 Jan 23 00:43 rview -> vim
+lrwxr-xr-x   1 wheel         3 Jan 23 00:43 rvim -> vim
+-rwxr-xr-x   1 wheel      1428 Dec 10 18:20 rwbypid.d
+-rwxr-xr-x   1 wheel      2464 Dec 10 18:20 rwbytype.d
+-r-xr-xr-x   1 wheel     19104 Jan 13 18:05 rwho
+-rwxr-xr-x   1 wheel      6355 Dec 10 18:20 rwsnoop
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 s2p
+-rwxr-xr-x   1 wheel     53364 Jul 31  2015 s2p5.16
+-rwxr-xr-x   1 wheel     53364 Jul 31  2015 s2p5.18
+-rwxr-xr-x   1 wheel     58928 Jan 13 18:05 sample
+-rwxr-xr-x   1 wheel      2560 Dec 10 18:20 sampleproc
+-rwxr-xr-x   1 wheel     23648 Jan 13 18:05 sandbox-exec
+-rwxr-xr-x   1 wheel     81184 Jan 13 18:05 sar
+-rwxr-xr-x   1 wheel     53712 Jan 13 18:05 say
+-rwxr-xr-x   1 wheel     82336 Jan 13 18:05 sc_usage
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 scandeps.pl
+-r-xr-xr-x   1 wheel      5815 Jul 31  2015 scandeps5.16.pl
+-r-xr-xr-x   1 wheel      5815 Jul 31  2015 scandeps5.18.pl
+lrwxr-xr-x   1 wheel        79 Jan 23 00:43 schemagen -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/schemagen
+-rwxr-xr-x   1 wheel     70752 Jan 13 18:05 scp
+-rwxr-xr-x   1 wheel    301568 Jan 13 18:05 screen
+-rwxr-xr-x   1 wheel     23984 Jan 13 18:05 script
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 sdef
+-rwxr-xr-x   1 wheel     37312 Jan 13 18:05 sdiff
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 sdp
+lrwxr-xr-x   1 wheel        32 Jan 23 00:43 sdx -> ../../System/Library/Tcl/bin/sdx
+-rwxr-xr-x   1 wheel    228480 Jan 13 18:05 security
+-rwxr-xr-x   1 wheel     41984 Jan 13 18:05 sed
+-rwxr-xr-x   1 wheel      2041 Dec 10 18:20 seeksize.d
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 segedit
+-rwxr-xr-x   1 wheel     22944 Jan 13 18:05 seq
+lrwxr-xr-x   1 wheel        79 Jan 23 00:43 serialver -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/serialver
+lrwxr-xr-x   1 wheel        80 Jan 23 00:43 servertool -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/servertool
+-r-xr-xr-x   1 wheel     24912 Jan 13 18:05 setregion
+-rwxr-xr-x   1 wheel      1606 Dec 10 18:20 setuids.d
+-rwxr-xr-x   1 wheel     79456 Jan 13 18:05 sfltool
+-rwxr-xr-x   1 wheel    105200 Jan 13 18:05 sftp
+-rwxr-xr-x   1 wheel      2516 Oct 27 16:15 shar
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 shasum
+-rwxr-xr-x   1 wheel      8629 Jul 31  2015 shasum5.16
+-rwxr-xr-x   1 wheel      8629 Jul 31  2015 shasum5.18
+-rwxr-xr-x   1 wheel     22912 Jan 13 18:05 shlock
+-r-xr-xr-x   1 wheel     24896 Jan 13 18:05 showmount
+-rwxr-xr-x   1 wheel      1603 Dec 10 18:20 sigdist.d
+-rwxr-xr-x   1 wheel    104320 Jan 13 18:05 sips
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 size
+lrwxr-xr-x   1 wheel         5 Jan 23 00:43 slogin -> ./ssh
+-r-xr-xr-x   1 wheel    101840 Jan 13 18:05 smbutil
+-rwxr-xr-x   1 wheel       928 Oct 23 18:11 smtpd.py
+lrwxr-xr-x   1 wheel        77 Jan 23 00:43 smtpd2.6.py -> ../../System/Library/Frameworks/Python.framework/Versions/2.6/bin/smtpd2.6.py
+lrwxr-xr-x   1 wheel        77 Jan 23 00:43 smtpd2.7.py -> ../../System/Library/Frameworks/Python.framework/Versions/2.7/bin/smtpd2.7.py
+lrwxr-xr-x   1 wheel        59 Jan 23 00:43 snfsdefrag -> /System/Library/Filesystems/acfs.fs/Contents/bin/snfsdefrag
+-rwxr-xr-x   1 wheel     30680 Oct 23 17:01 snmp-bridge-mib
+-rwxr-xr-x   1 wheel     23536 Jan 13 18:05 snmpbulkget
+-rwxr-xr-x   1 wheel     23952 Jan 13 18:05 snmpbulkwalk
+-rwxr-xr-x   1 wheel     26136 Oct 23 17:01 snmpconf
+-rwxr-xr-x   1 wheel     29392 Jan 13 18:05 snmpdelta
+-rwxr-xr-x   1 wheel     23600 Jan 13 18:05 snmpdf
+-rwxr-xr-x   1 wheel     19344 Jan 13 18:05 snmpget
+-rwxr-xr-x   1 wheel     19360 Jan 13 18:05 snmpgetnext
+-rwxr-xr-x   1 wheel     24048 Jan 13 18:05 snmpinform
+-rwxr-xr-x   1 wheel     55088 Jan 13 18:05 snmpnetstat
+-rwxr-xr-x   1 wheel     23456 Jan 13 18:05 snmpset
+-rwxr-xr-x   1 wheel     24096 Jan 13 18:05 snmpstatus
+-rwxr-xr-x   1 wheel     33072 Jan 13 18:05 snmptable
+-rwxr-xr-x   1 wheel     24544 Jan 13 18:05 snmptest
+-rwxr-xr-x   1 wheel     25056 Jan 13 18:05 snmptranslate
+-rwxr-xr-x   1 wheel     24032 Jan 13 18:05 snmptrap
+-rwxr-xr-x   1 wheel     46096 Jan 13 18:05 snmpusm
+-rwxr-xr-x   1 wheel     39968 Jan 13 18:05 snmpvacm
+-rwxr-xr-x   1 wheel     23824 Jan 13 18:05 snmpwalk
+-rwxr-xr-x   1 wheel     93968 Jan 13 18:05 sntp
+-rwxr-xr-x   1 wheel     38736 Jan 13 18:05 soelim
+-rwxr-xr-x   1 wheel     57984 Jan 13 18:05 sort
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 spfd
+-r-xr-xr-x   1 wheel      9486 Jul 31  2015 spfd5.16
+-r-xr-xr-x   1 wheel      9486 Jul 31  2015 spfd5.18
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 spfquery
+-r-xr-xr-x   1 wheel     23081 Jul 31  2015 spfquery5.16
+-r-xr-xr-x   1 wheel     23081 Jul 31  2015 spfquery5.18
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 splain
+-rwxr-xr-x   1 wheel     18494 Jul 31  2015 splain5.16
+-rwxr-xr-x   1 wheel     18681 Jul 31  2015 splain5.18
+-rwxr-xr-x   1 wheel     22992 Jan 13 18:05 split
+-rwxr-xr-x   1 wheel    172592 Jan 13 18:05 sqlite3
+-rwxr-xr-x   1 wheel     33616 Jan 13 18:05 srm
+-rwxr-xr-x   1 wheel   1710464 Jan 13 18:05 ssh
+-rwxr-xr-x   1 wheel   1405200 Jan 13 18:05 ssh-add
+-rwxr-xr-x   1 wheel   1422800 Jan 13 18:05 ssh-agent
+-rwxr-xr-x   1 wheel   1434352 Jan 13 18:05 ssh-keygen
+-rwxr-xr-x   1 wheel   1448736 Jan 13 18:05 ssh-keyscan
+-rwxr-xr-x   1 wheel     27376 Jan 13 18:05 stat
+-rwxr-xr-x   1 wheel     70608 Jan 13 18:05 stringdups
+-rwxr-xr-x   1 wheel     83168 Jan 13 18:05 stringdups32
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 strings
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 strip
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 stty.pl
+-r-xr-xr-x   1 wheel       277 Jul 31  2015 stty5.16.pl
+-r-xr-xr-x   1 wheel       277 Jul 31  2015 stty5.18.pl
+-rwsr-xr-x   1 wheel     25312 Jan 13 18:05 su
+-r-s--x--x   1 wheel    168448 Jan 13 18:05 sudo
+-rwxr-xr-x   1 wheel     22576 Jan 13 18:05 sum
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 svn
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 svnadmin
+-rwxr-xr-x   1 wheel     18208 Jan 13 18:05 svndumpfilter
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 svnlook
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 svnserve
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 svnsync
+-rwxr-xr-x   1 wheel     18192 Jan 13 18:05 svnversion
+-rwxr-xr-x   1 wheel     18736 Jan 13 18:05 sw_vers
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 swift
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 swiftc
+-rwxr-xr-x   1 wheel    140544 Jan 13 18:05 symbols
+-rwxr-xr-x   1 wheel    100048 Jan 13 18:05 symbolscache
+-rwxr-xr-x   1 wheel      1260 Dec 10 18:20 syscallbypid.d
+-rwxr-xr-x   1 wheel       253 Dec 10 18:20 syscallbyproc.d
+-rwxr-xr-x   1 wheel       248 Dec 10 18:20 syscallbysysc.d
+-rwxr-xr-x   1 wheel    350048 Jan 13 18:05 sysdiagnose
+-rwxr-xr-x   1 wheel     67424 Jan 13 18:05 syslog
+-rwxr-xr-x   1 wheel     51184 Jan 13 18:05 tab2space
+-rwxr-xr-x   1 wheel     18480 Jan 13 18:05 tabs
+-rwxr-xr-x   1 wheel     28416 Jan 13 18:05 tail
+-r-xr-xr-x   1 wheel     30752 Jan 13 18:05 talk
+lrwxr-xr-x   1 wheel         6 Jan 23 00:43 tar -> bsdtar
+-rwxr-xr-x   1 wheel     32352 Jan 13 18:05 taskinfo
+-rwxr-xr-x   1 wheel    118896 Jan 13 18:05 tbl
+-rwxr-xr-x   1 wheel     18784 Jan 13 18:05 tccutil
+lrwxr-xr-x   1 wheel         8 Jan 23 00:43 tclsh -> tclsh8.5
+lrwxr-xr-x   1 wheel        67 Jan 23 00:43 tclsh8.4 -> ../../System/Library/Frameworks/Tcl.framework/Versions/8.4/tclsh8.4
+lrwxr-xr-x   1 wheel        67 Jan 23 00:43 tclsh8.5 -> ../../System/Library/Frameworks/Tcl.framework/Versions/8.5/tclsh8.5
+-rwxr-xr-x   1 wheel     18304 Jan 13 18:05 tee
+-r-xr-xr-x   1 wheel    116928 Jan 13 18:05 telnet
+-r-xr-xr-x   1 wheel       128 Jul 31  2015 testrb
+-rwxr-xr-x   1 wheel     28218 Jul 31  2015 texi2dvi
+-rwxr-xr-x   1 wheel       660 Jul 31  2015 texi2pdf
+-rwxr-xr-x   1 wheel     56272 Jan 13 18:05 texindex
+-rwxr-xr-x   1 wheel     48496 Jan 13 18:05 textutil
+-rwxr-xr-x   1 wheel     38960 Jan 13 18:05 tfmtodit
+-r-xr-xr-x   1 wheel     38832 Jan 13 18:05 tftp
+-rwxr-xr-x   1 wheel     26160 Jan 13 18:05 thermal
+-rwxr-xr-x   1 wheel     55552 Jan 13 18:05 tic
+-rwxr-xr-x   1 wheel     78752 Jan 13 18:05 tidy
+-rwxr-xr-x   1 wheel     23328 Jan 13 18:05 tiff2icns
+-rwxr-xr-x   1 wheel    338352 Jan 13 18:05 tiffutil
+-rwxr-xr-x   1 wheel     18320 Jan 13 18:05 time
+-rwxr-xr-x   1 wheel      2886 Dec 10 19:27 timer_analyser.d
+-rwxr-xr-x   1 wheel      6505 Dec 10 19:24 timerfires
+lrwxr-xr-x   1 wheel        43 Jan 23 00:43 tkcon -> ../../System/Library/Tcl/tkcon2.6/tkcon.tcl
+-rwxr-xr-x   1 wheel     30924 Oct 23 17:01 tkmib
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 tkpp
+-r-xr-xr-x   1 wheel     78220 Jul 31  2015 tkpp5.16
+-r-xr-xr-x   1 wheel     82203 Jul 31  2015 tkpp5.18
+-rwxr-xr-x   1 wheel    183936 Jan 13 18:05 tmdiagnose
+-rwxr-xr-x   1 wheel    279680 Jan 13 18:05 tmutil
+lrwxr-xr-x   1 wheel        79 Jan 23 00:43 tnameserv -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/tnameserv
+-rwxr-xr-x   1 wheel     24560 Jan 13 18:05 toe
+-r-sr-xr-x   1 wheel     87952 Jan 13 18:05 top
+-rwxr-xr-x   1 wheel    103040 Jan 13 18:05 tops
+-rwxr-xr-x   1 wheel      4619 Dec 10 18:20 topsyscall
+-rwxr-xr-x   1 wheel      2950 Dec 10 18:20 topsysproc
+-rwxr-xr-x   1 wheel     23248 Jan 13 18:05 touch
+-rwxr-xr-x   1 wheel     24096 Jan 13 18:05 tput
+-rwxr-xr-x   1 wheel     27616 Jan 13 18:05 tr
+-rwxr-xr-x   1 wheel    135840 Jan 13 18:05 trace
+-rwxr-xr-x   1 wheel      2207 Oct 23 17:01 traptoemail
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 treereg
+-r-xr-xr-x   1 wheel     10339 Jul 31  2015 treereg5.16
+-r-xr-xr-x   1 wheel     10339 Jul 31  2015 treereg5.18
+-rwxr-xr-x   1 wheel     23968 Jan 13 18:05 trimforce
+-rwxr-xr-x   1 wheel    472896 Jan 13 18:05 troff
+-rwxr-xr-x   1 wheel     17712 Jan 13 18:05 true
+-rwxr-xr-x   1 wheel     28672 Jan 13 18:05 tset
+-r-xr-xr-x   1 wheel     22864 Jan 13 18:05 tsort
+-rwxr-xr-x   1 wheel     17936 Jan 13 18:05 tty
+-rwxr-xr-x  15 wheel       190 Jul 31  2015 type
+-rwxr-xr-x   1 wheel     23072 Jan 13 18:05 ul
+-rwxr-xr-x  15 wheel       190 Jul 31  2015 ulimit
+-rwxr-xr-x  15 wheel       190 Jul 31  2015 umask
+-rwxr-xr-x  15 wheel       190 Jul 31  2015 unalias
+-rwxr-xr-x   1 wheel     18320 Jan 13 18:05 uname
+-rwxr-xr-x   1 wheel     27552 Jan 13 18:05 uncompress
+-rwxr-xr-x   1 wheel     18480 Jan 13 18:05 unexpand
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 unifdef
+-rwxr-xr-x   1 wheel     18192 Jan 13 18:05 unifdefall
+-rwxr-xr-x   1 wheel     23040 Jan 13 18:05 uniq
+-r-xr-xr-x   1 wheel     27632 Jan 13 18:05 units
+lrwxr-xr-x   1 wheel        79 Jan 23 00:43 unpack200 -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/unpack200
+-rwxr-xr-x   1 wheel     18288 Jan 13 18:05 unvis
+-rwxr-xr-x   1 wheel    166320 Jan 13 18:05 unzip
+-rwxr-xr-x   1 wheel     82512 Jan 13 18:05 unzipsfx
+-rwxr-xr-x   1 wheel    714976 Jan 13 18:05 update_dyld_shared_cache
+-rwxr-xr-x   1 wheel     24096 Jan 13 18:05 uptime
+-rwxr-xr-x   1 wheel     18288 Jan 13 18:05 users
+-r-xr-xr-x   1 wheel     97408 Jan 13 18:05 uucp
+-r-xr-xr-x   1 wheel     24080 Jan 13 18:05 uudecode
+-r-xr-xr-x   1 wheel     18672 Jan 13 18:05 uuencode
+-rwxr-xr-x   1 wheel     42912 Jan 13 18:05 uuidgen
+-rwxr-xr-x   1 wheel     69936 Jan 13 18:05 uulog
+-r-xr-xr-x   1 wheel     48080 Jan 13 18:05 uuname
+-rwxr-xr-x   1 wheel     75120 Jan 13 18:05 uupick
+-r-xr-xr-x   1 wheel    109920 Jan 13 18:05 uustat
+-rwxr-xr-x   1 wheel      1958 Jul 31  2015 uuto
+-r-xr-xr-x   1 wheel    101520 Jan 13 18:05 uux
+lrwxr-xr-x   1 wheel         3 Jan 23 00:43 vi -> vim
+lrwxr-xr-x   1 wheel         3 Jan 23 00:43 view -> vim
+-rwxr-xr-x   1 wheel   1530064 Jan 13 18:05 vim
+lrwxr-xr-x   1 wheel         3 Jan 23 00:43 vimdiff -> vim
+-rwxr-xr-x   1 wheel      2084 Oct 27 16:22 vimtutor
+-rwxr-xr-x   1 wheel     18416 Jan 13 18:05 vis
+-rwxr-xr-x   1 wheel     51632 Jan 13 18:05 vm_stat
+-rwxr-xr-x   1 wheel     60528 Jan 13 18:05 vmmap
+-rwxr-xr-x   1 wheel     72416 Jan 13 18:05 vmmap32
+-rwxr-xr-x   1 wheel     24096 Jan 13 18:05 w
+-rwxr-xr-x  15 wheel       190 Jul 31  2015 wait
+-r-xr-sr-x   1 tty       24704 Jan 13 18:05 wall
+-rwxr-xr-x   1 wheel     22976 Jan 13 18:05 wc
+-rwxr-xr-x   1 wheel     28672 Jan 13 18:05 wdutil
+-rwxr-xr-x   1 wheel      4013 Dec 10 18:20 weblatency.d
+-rwxr-xr-x   1 wheel     18000 Jan 13 18:05 what
+-r-xr-xr-x   1 wheel      1806 Jul 31  2015 whatis
+-rwxr-xr-x   1 wheel     18448 Jan 13 18:05 whereis
+-rwxr-xr-x   1 wheel     18480 Jan 13 18:05 which
+-rwxr-xr-x   1 wheel     23424 Jan 13 18:05 who
+-rwxr-xr-x   1 wheel     23136 Jan 13 18:05 whoami
+-rwxr-xr-x   1 wheel     23328 Jan 13 18:05 whois
+lrwxr-xr-x   1 wheel         7 Jan 23 00:43 wish -> wish8.5
+-r-xr-xr-x   1 wheel       127 Jul 31  2015 wish8.4
+-r-xr-xr-x   1 wheel       127 Jul 31  2015 wish8.5
+-r-xr-sr-x   1 tty       23808 Jan 13 18:05 write
+lrwxr-xr-x   1 wheel        75 Jan 23 00:43 wsgen -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/wsgen
+lrwxr-xr-x   1 wheel        78 Jan 23 00:43 wsimport -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/wsimport
+-rwxr-xr-x   1 wheel     38032 Jan 13 18:05 xar
+-rwxr-xr-x   1 wheel     24064 Jan 13 18:05 xargs
+-rwxr-xr-x   2 wheel       925 Jul 31  2015 xattr
+-rwxr-xr-x   1 wheel       392 Jul 31  2015 xattr-2.6
+-rwxr-xr-x   1 wheel       432 Jul 31  2015 xattr-2.7
+-rwxr-xr-x   1 wheel     23856 Jan 13 18:05 xcode-select
+-rwxr-xr-x   1 wheel     18192 Jan 13 18:05 xcodebuild
+-rwxr-xr-x   1 wheel     17856 Jan 13 18:05 xcrun
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 xed
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 xgettext.pl
+-r-xr-xr-x   1 wheel      6247 Jul 31  2015 xgettext5.16.pl
+-r-xr-xr-x   1 wheel      6650 Jul 31  2015 xgettext5.18.pl
+-rwxr-xr-x   1 wheel     28480 Jan 13 18:05 xip
+lrwxr-xr-x   1 wheel        73 Jan 23 00:43 xjc -> /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/xjc
+-rwxr-xr-x   1 wheel      1844 Oct 25 17:01 xml2-config
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 xml2man
+-rwxr-xr-x   1 wheel     61056 Jan 13 18:05 xmlcatalog
+-rwxr-xr-x   1 wheel    145472 Jan 13 18:05 xmllint
+-rwxr-xr-x  35 wheel       811 Jul 31  2015 xpath
+-r-xr-xr-x   1 wheel      1445 Jul 31  2015 xpath5.16
+-r-xr-xr-x   1 wheel      1445 Jul 31  2015 xpath5.18
+-rwxr-xr-x   1 wheel       944 Dec  6 20:27 xslt-config
+-rwxr-xr-x   1 wheel     75232 Jan 13 18:05 xsltproc
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 xsubpp
+-rwxr-xr-x   1 wheel      4591 Jul 31  2015 xsubpp5.16
+-rwxr-xr-x   1 wheel      4591 Jul 31  2015 xsubpp5.18
+-rwxr-xr-x   1 wheel     27328 Jan 13 18:05 xxd
+-rwxr-xr-x   1 wheel     18176 Jan 13 18:05 yacc
+-rwxr-xr-x   1 wheel     17712 Jan 13 18:05 yes
+-r-xr-xr-x   1 wheel     18288 Jan 13 18:05 ypcat
+-r-xr-xr-x   1 wheel     18352 Jan 13 18:05 ypmatch
+-r-xr-xr-x   1 wheel     18928 Jan 13 18:05 ypwhich
+-rwxr-xr-x   1 wheel     52736 Jan 13 18:05 zcat
+-rwxr-xr-x   2 wheel      3264 Oct 27 16:15 zcmp
+-rwxr-xr-x   2 wheel      3264 Oct 27 16:15 zdiff
+-rwxr-xr-x   1 wheel     33728 Jan 13 18:05 zegrep
+-rwxr-xr-x   1 wheel     33728 Jan 13 18:05 zfgrep
+-rwxr-xr-x   1 wheel      1454 Oct 27 16:15 zforce
+-rwxr-xr-x   1 wheel     33728 Jan 13 18:05 zgrep
+-rwxr-xr-x   1 wheel    175408 Jan 13 18:05 zip
+-rwxr-xr-x   1 wheel     82064 Jan 13 18:05 zipcloak
+-rwxr-xr-x  38 wheel       811 Jul 31  2015 zipdetails
+-rwxr-xr-x   1 wheel     48113 Jul 31  2015 zipdetails5.16
+-rwxr-xr-x   1 wheel     48113 Jul 31  2015 zipdetails5.18
+-rwxr-xr-x   1 wheel      1188 Jul 31  2015 zipgrep
+-rwxr-xr-x   1 wheel    166320 Jan 13 18:05 zipinfo
+-rwxr-xr-x   1 wheel     73136 Jan 13 18:05 zipnote
+-rwxr-xr-x   1 wheel     77376 Jan 13 18:05 zipsplit
+-rwxr-xr-x   2 wheel      2077 Oct 27 16:15 zless
+-rwxr-xr-x   2 wheel      2077 Oct 27 16:15 zmore
+-rwxr-xr-x   1 wheel      3376 Oct 27 16:15 znew
+-rwxr-xr-x   1 wheel     74480 Jan 13 18:05 zprint
